@@ -3,7 +3,7 @@
 # 🎨 [Portfólio - Alex Moretti](https://portfolio-alex-moretti.vercel.app/)
 ### Artista Digital & Criador de Mundos Imaginários
 
-<img src="img/preview-portfolio-Alex-Moretti.png" width="100%/>
+![Portfólio Alex Moretti](img/preview-portfolio-Alex-Moretti.png)
 
 ---
 
