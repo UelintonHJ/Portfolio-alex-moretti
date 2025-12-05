@@ -105,7 +105,7 @@ Este projeto é apenas para fins educacionais, mas sugestões são bem-vindas!
 
 ---
 <div align="center">
-Desenvolvido por **Uelinton Janke** - Front-End Developer.
+Desenvolvido por <strong>Uelinton Janke</strong> - Front-End Developer.
 </div>
 
 
