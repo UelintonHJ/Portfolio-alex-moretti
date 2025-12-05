@@ -2,7 +2,7 @@
 Portfólio fictício desenvolvido para prática de HTML5, CSS3 e Bootstrap.
 
 Este projeto apresenta o trabalho do artista digital **Alex Moretti**, um ilustrador e concept artist especializado em fantasia urbana.
-O objetivo do site é demonstrar habilidades de desenvolvimento front-end, organização visual, responsividade e boas práticsa de código.
+O objetivo do site é demonstrar habilidades de desenvolvimento front-end, organização visual, responsividade e boas práticas de código.
 
 ---
 
