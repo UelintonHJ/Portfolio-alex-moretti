@@ -32,24 +32,31 @@ Criado exclusivamente para este projeto.
 O site contém 7 obras:
 
 - *Arte Destaque*
+  
 ![Arte Destaque de Alex Moretti](img/hero.jpeg)
 
 - *Guardião da Cidade*
+  
 ![Guardião da Cidade](img/img1.png)
 
 - *Neon Runner*
+  
 ![Neon Runner](img/img2.png)
 
 - *Arquitetura Onírica*
+  
 ![Arquitetura Onírica](img/img3.png)
 
 - *Sentinela do Mercado*
+  
 ![Sentinela do Mercado](img/img4.png)
 
 - *Rooftop Memories*
+  
 ![Rooftop Memories](img/img5.png)
 
 - *Estúdio Noturno*
+  
 ![Estúdio Noturno](img/img6.jpeg)
 
 As imagens foram geradas por IA com prompts criados especialmente para este portfólio.
