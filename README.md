@@ -1,18 +1,35 @@
-# 🎨 [Portfólio - Alex Moretti](https://portfolio-alex-moretti.vercel.app/)
-Portfólio fictício desenvolvido para prática de HTML5, CSS3 e Bootstrap.
+<div align="center">
 
-Este projeto apresenta o trabalho do artista digital **Alex Moretti**, um ilustrador e concept artist especializado em fantasia urbana.
-O objetivo do site é demonstrar habilidades de desenvolvimento front-end, organização visual, responsividade e boas práticas de código.
+# 🎨 [Portfólio - Alex Moretti](https://portfolio-alex-moretti.vercel.app/)
+### Artista Digital & Criador de Mundos Imaginários
+
+<img src="img/preview-portfolio-Alex-Moretti.png" width="100%/>
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Responsivo](https://img.shields.io/badge/Responsivo-Yes-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-- **HTML5** - Estrutura semântica e organizada
-- **CSS3** - Estilização customizada
-- **Bootstrap 5** - Layout responsivo e componentes
-- **JavaScript** - Interações simples e funcionalidades do formulário
-- **Google Fonts** (Plus Jakarta Sans)
+</div>
+
+---
+
+## 📌 Sobre o Projeto
+
+Este é o portfólio oficial de **Alex Moretti**, um artista digital fictício especializado na criação de mundos imaginários, personagens e cenários que misturam fantasia, sci-fi e estética moderna.
+
+O site foi desenvolvido como parte de um exercício de front-end, utilizando:
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Layout One Page com Scroll Suave**
+- **Cards e Carousel do Bootstrap**
+- **Formulário de Contato Responsivo**
 
 ---
 
