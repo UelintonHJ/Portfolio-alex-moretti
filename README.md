@@ -33,6 +33,12 @@ O site foi desenvolvido como parte de um exercício de front-end, utilizando:
 
 ---
 
+## 🖥️ **Preview do Site**
+
+![Preview do Site](img/Preview-do-Site.gif)
+
+---
+
 ## 🧑‍🎨 Sobre o Artista (Fictício)
 
 ![Logo de Alex Moretti](img/logo-alex-moretti.jpeg)
