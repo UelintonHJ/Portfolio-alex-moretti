@@ -28,7 +28,7 @@ O site foi desenvolvido como parte de um exercício de front-end, utilizando:
 - **CSS3**
 - **Bootstrap 5**
 - **Layout One Page com Scroll Suave**
-- **Cards e Carousel do Bootstrap**
+- **Cards do Bootstrap**
 - **Formulário de Contato Responsivo**
 
 ---
@@ -39,100 +39,74 @@ O site foi desenvolvido como parte de um exercício de front-end, utilizando:
 
 ---
 
-## 🧑‍🎨 Sobre o Artista (Fictício)
+## 🚀 Tecnologias Utilizadas
 
-![Logo de Alex Moretti](img/logo-alex-moretti.jpeg)
-
-**Alex Moretti** é um artista digital que combina pintura digital, luz, sombra e cores vibrantes para criar mundos imaginários.
-Seu estilo é marcado por fantasia urbana, personagens detalhados e atmosferas iluminadas por neon.
-
-Criado exclusivamente para este projeto.
-
----
-
-## 🖼️ Portfólio de Ilustrações
-
-O site contém 7 obras:
-
-- *Arte Destaque*
-  
-![Arte Destaque de Alex Moretti](img/hero.jpeg)
-
-- *Guardião da Cidade*
-  
-![Guardião da Cidade](img/img1.png)
-
-- *Neon Runner*
-  
-![Neon Runner](img/img2.png)
-
-- *Arquitetura Onírica*
-  
-![Arquitetura Onírica](img/img3.png)
-
-- *Sentinela do Mercado*
-  
-![Sentinela do Mercado](img/img4.png)
-
-- *Rooftop Memories*
-  
-![Rooftop Memories](img/img5.png)
-
-- *Estúdio Noturno*
-  
-![Estúdio Noturno](img/img6.jpeg)
-
-As imagens foram geradas por IA com prompts criados especialmente para este portfólio.
+- **HTML5** - Estrutura semântica e moderna
+- **CSS3** - Estilização visual customizada
+- **Bootstrap 5** - Grid, cards e navbar responsiva
+- **Google Fonts** - Melhor tipografia
+- **Vercel** - Deploy simples e rápido
 
 ---
 
-## ✨ Funcionalidades do Projeto
+## 📚 Conteúdo do Site
 
-- Página inicial com apresentação do artista
-- Galeria de portfólio em grade responsiva
-- Imagens clicáveis com visualização ampliada (lightbox)
-- Seção "Sobre & Contato" como formulário funcional (via `mailto:`)
-- Navegação suave entre seções (`scroll-behavior: smooth`)
-- Estrutura totalmente responsiva em todos os dispositivos
+### 🏠 Home / Apresentação
+Seção com introdução ao artista, seu estilo, inspirações e missão criativa.
+
+### 🖼️ Portfólio
+Galeria com 6+ artes fictícias, apresentadas em **cards**.
+
+### 📞 Sobre & Contato
+História de Alex, áreas de interesse e um **formulário de contato funcional**.
 
 ---
 
-## 🌐 Visualização Online
+## 🧠 Aprendizados deste projeto
 
+Este projeto permitiu aplicar e reforçar conceitos essenciais de desenvolvimento front-end:
+
+- Como estruturar e organizar um layout **One Page profissional**
+- Uso eficiente do **Bootstrap Grid** para responsividade
+- Construção de componentes visuais com **cards** e **navbar sticky**
+- Melhores práticas de semântica HTML5
+- Estilos consistentes com variáveis e classes utilitárias
+- Deploy com **Vercel**
+- Escrita de README profissional (este 😄)
+
+---
+
+## 📂 Como Rodar o Projeto
+
+```
+# Clone o repositório
+git clone https://github.com/UelintonHJ/Portfolio-alex-moretti
+
+# Entre na pasta
+cd Portfolio-alex-moretti
+
+# Abra o index.html
+```
+
+Não requer instalação de dependências, basta abrir no navegador!
+
+---
+
+## 🌐 Deploy
+
+🔗 Acesse o site online:
 https://portfolio-alex-moretti.vercel.app/
 
 ---
 
-## 🛠️ Como executar localmente
+## 🤝 Contribuições
 
-```
-git clone https://github.com/UelintonHJ/Portfolio-alex-moretti
-cd Portfolio-alex-moretti
-```
-
-Depois é só abrir o arquivo index.html no navegador.
+Este projeto é apenas para fins educacionais, mas sugestões são bem-vindas!
 
 ---
-
-## 📬 Contato (Fictício)
-
-* Instagram: **@alexmoretti.art**
-* Behance: **/alexmoretti**
-* Email: **alex.moretti@example.com**
-
----
-
-## 📘 Linceça
-
-Este projeto é de caráter **educacional**.
-O artista, imagens e textos e identidade visual são 100% fictícios e criados apenas para fins de estudo.
-
----
-
-## 👨‍💻 Autor
-
+<div align="center">
 Desenvolvido por **Uelinton Janke** - Front-End Developer.
-Se quiser trocar ideias sobre código, arte ou projetos, fique à vontade para entrar em contato!
+</div>
 
 
 
