@@ -1,0 +1,77 @@
+:root {
+    --accent: #2EC4B6;
+    --dark: #011627;
+    --muted: #560BAD;
+}
+
+html,
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    color: var(--dark);
+    background: #FDFFFC;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+header.hero {
+    background: linear-gradient(180deg, rgba(39, 125, 161, 0.6), rgba(173, 203, 235, 0.2));
+    padding: 5rem 0;
+}
+
+.hero-card {
+    background-color: #FDFFFC;
+    border-radius: 1rem;
+    box-shadow: 0 10px 30px rgba(139, 30, 63, 0.6);
+}
+
+.hero-img {
+    border-radius: .8rem;
+}
+
+.zoom-img {
+    cursor: zoom-in;
+    transition: transform .2s;
+}
+
+.zoom-img:hover {
+    transform: scale(1.02);
+}
+
+.section-title {
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+.lead-small {
+    color: var(--muted);
+}
+
+.portfolio-card img {
+    height: 220px;
+    object-fit: cover;
+    border-radius: .5rem;
+}
+
+#formAlert {
+    display: none;
+}
+
+footer {
+    padding: 2rem 0;
+    background: #011627;
+    color: #FDFFFC;
+}
+
+@media (min-width: 992px) {
+    .hero-img {
+        height: 420px;
+        object-fit: cover;
+        border-radius: .8rem;
+    }
+}
