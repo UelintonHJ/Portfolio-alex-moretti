@@ -58,6 +58,22 @@ header.hero {
     border-radius: .5rem;
 }
 
+.contact-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.contact-links .item {
+    white-space: nowrap;
+}
+
+.contact-links .bullet {
+    font-weight: bold;
+}
+
 #formAlert {
     display: none;
 }
